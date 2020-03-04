@@ -5,4 +5,4 @@ function myName (name = "default"){
 }
 
 myName();
-myName("husnain");
+myName("husnain ");
